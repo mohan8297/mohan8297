@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohan8297
+- 👋 Hi, I’m @mohan8297, recently completed my masters from IIT Madras
 - 👀 I’m interested in ... working with machine learning model implementation
 - 🌱 I’m currently learning ... Machine learning models and power bi
 - 💞️ I’m looking to collaborate on ... working as a data scientsist
